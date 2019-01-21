@@ -9,7 +9,6 @@ Some highlights:
 - Chininja
 - Veldrion
 
-<br>
-... and some familiar-sounding ones:
+and some familiar-sounding ones:
 - Sharizard
 - Cublaziken
