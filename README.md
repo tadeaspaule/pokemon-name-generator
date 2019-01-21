@@ -1,6 +1,6 @@
 # pokemon-name-generator
-This RNN generates realistic-sounding Pokemon names<br>
-Some highlights:
+
+### Some highlights:
 - Roltorita
 - Holchorm
 - Torganita
