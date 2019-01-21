@@ -8,7 +8,3 @@ Some highlights:
 - Bigitar
 - Chininja
 - Veldrion
-
-and some familiar-sounding ones:
-- Sharizard
-- Cublaziken
